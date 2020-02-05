@@ -50,7 +50,7 @@
                     </strong><br>
                     Columbia University Medical Center<br>
                     701 W 168th Street<br>
-                    Hammer Building 1408<br>
+                    Hammer Building 616<br>
                     New York, NY 10032
                 </address>
             </div>

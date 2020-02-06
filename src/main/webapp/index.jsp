@@ -55,7 +55,7 @@
                     <p class="text-muted" style="margin-left: 5px">
                         Examples - 
                         Gene: <a href="Search?query=SCN1A">SCN1A</a>, 
-                        Genes: <a href="Search?query=COL11A1,GNB1,NGLY1,SCN1A,SCN2A">COL11A1,GNB1,NGLY1,SCN1A,SCN2A</a>
+                        Genes: <a href="Search?query=COL4A5,GNB1,NGLY1,SCN1A,SCN2A">COL4A5,GNB1,NGLY1,SCN1A,SCN2A</a>
                     </p>
                 </div>
 

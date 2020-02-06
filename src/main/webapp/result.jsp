@@ -90,6 +90,12 @@
                     Age Group
                 </a>
             </th>
+            <th class="text-center" style="cursor: pointer; vertical-align: middle;">
+                <a class="black" data-toggle="tooltip"
+                   title="">
+                    Phenotype
+                </a>
+            </th>
         </tr> 
     </thead> 
 

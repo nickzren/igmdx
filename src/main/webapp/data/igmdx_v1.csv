@@ -1,0 +1,604 @@
+﻿Diagnosis Gene,Genetic Diagnosis CLIA Confirmed?,Zygosity, Type of Mutation of Variant A,CLIA ACMG Classification of Variant A,Type of Mutation of Variant B,CLIA ACMG Classification of Variant B,Sex,Age Group,Phenotype
+SCN1A,Yes,Heterozygous,CODON_CHANGE_PLUS_CODON_DELETION,VUS,Not applicable,Not applicable,M,Pediatric,Epilepsy
+PPT1,Yes,Homozygous,CODON_DELETION,Likely pathogenic,CODON_DELETION,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+SACS,Yes,Homozygous,CODON_DELETION,Pathogenic,CODON_DELETION,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TNNT2,Yes,Heterozygous,CODON_DELETION,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+PAX6,No,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+NGLY1,Yes,Homozygous,FRAME_SHIFT,Not available,FRAME_SHIFT,Not available,F,Pediatric,Unidentified Congenital Disorder
+EPCAM,Yes,Homozygous,FRAME_SHIFT,Not available,FRAME_SHIFT,Not available,M,Pediatric,Unidentified Congenital Disorder
+NFIA,Yes,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+EXPH5,Yes,Homozygous,FRAME_SHIFT,Not available,FRAME_SHIFT,Not available,F,Adult,Unidentified Congenital Disorder
+CREBBP,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KIF11,Yes,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+COL7A1,Yes,Homozygous,FRAME_SHIFT,Not available,FRAME_SHIFT,Not available,F,Pediatric,Unidentified Congenital Disorder
+ELN,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KANSL1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PCYT1A,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+PCYT1A,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TMEM67,Yes,Compound Heterozygous,FRAME_SHIFT,Not available,NON_SYNONYMOUS_CODING,Not available,F,Adult,Unidentified Congenital Disorder
+FBP1,Yes,Homozygous,FRAME_SHIFT,Not available,FRAME_SHIFT,Not available,M,Pediatric,Unidentified Congenital Disorder
+KDM6A,Yes,Hemizygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NSD1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ABCA4,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Adult,Unidentified Congenital Disorder
+ASXL3,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ODC1,Yes,Heterozygous,FRAME_SHIFT,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CHD7,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KANSL1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+KMT2A,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PRG4,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+EXT1,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PRMT7,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Adult,Unidentified Congenital Disorder
+SCN1A,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GFPT1,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+MEIS2,Yes,Heterozygous,FRAME_SHIFT,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+EHMT1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GNAS,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+LIG4,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+SON,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+RELN,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TCF4,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TTN,Yes,Compound Heterozygous,FRAME_SHIFT,Likely pathogenic,SPLICE_SITE_ACCEPTOR,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TCF20,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+PKD1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TOP3A,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TOP3A,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+TOP3A,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+GATA3,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NHS,Yes,Hemizygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NHS,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+SON,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+TECPR2,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+OTUD6B,Yes,Homozygous,FRAME_SHIFT,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+FLG,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+FLG,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Unaffected Parent
+FLG,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+MSH6,Yes,Homozygous,FRAME_SHIFT,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+GANAB,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Cerebral Palsy Cohort
+SP110,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+KMT2D,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+SPAST,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Cerebral Palsy Cohort
+BPTF,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+DGUOK,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+HTRA2,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+PHF21A,Yes,Heterozygous,FRAME_SHIFT,VUS,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+FLT4,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CARD11,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+TSC2,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+TSC2,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+DEPDC5,Yes,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,F,Adult,Epilepsy
+PRRT2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Adult,Unaffected Parent
+PRRT2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SCN1A,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SCN1A,Yes,Mosaic Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Adult,Unaffected Parent
+GRN,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Adult,Parkinson's
+SCN1A,No,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SYNE1,Yes,Compound Heterozygous,FRAME_SHIFT,Likely pathogenic,SPLICE_SITE_ACCEPTOR,Pathogenic,F,Adult,Cerebellar ataxia
+JARID2,Yes,Heterozygous,FRAME_SHIFT,Deleterious variant in a gene of uncertain significance,Not applicable,Not applicable,M,Adult,Epilepsy
+CLN5,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Epilepsy
+ARID1B,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+LGI1,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+MBD5,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+SLC6A8,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+PRRT2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Adult,Unaffected Parent
+PRRT2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+KIAA2022,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+NFIX,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+COL4A1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Adult,Stroke/dilated brain arteries
+DEPDC5,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SHANK3,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+CSNK2B,Yes,Heterozygous,FRAME_SHIFT,Deleterious variant in a gene of uncertain significance,Not applicable,Not applicable,M,Pediatric,Epilepsy
+ZNF292,Yes,Heterozygous,FRAME_SHIFT,VUS,Not applicable,Not applicable,F,Pediatric,Epilepsy
+STXBP1,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+MCOLN1,Yes,Homozygous,FRAME_SHIFT,Pathogenic,FRAME_SHIFT,Pathogenic,F,Pediatric,Neurodevelopmental disorder
+SON,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+SLC1A4,Yes,Homozygous,NON_SYNONYMOUS_CODING,Not available,NON_SYNONYMOUS_CODING,Not available,M,Adult,Unidentified Congenital Disorder
+SLC1A4,Yes,Homozygous,NON_SYNONYMOUS_CODING,Not available,NON_SYNONYMOUS_CODING,Not available,F,Pediatric,Unidentified Congenital Disorder
+MAP2K1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+GRIN1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NDUFB3,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available,STOP_GAINED,Not available,M,Pediatric,Unidentified Congenital Disorder
+PDHA1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TGIF1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available,FRAME_SHIFT,Not available,M,Pediatric,Unidentified Congenital Disorder
+PKD1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CACNA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CACNA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+GNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GABRB2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Deleterious variant in a gene of uncertain significance,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+MORC2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CNNM4,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+CNNM4,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+DNAH5,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,F,Pediatric,Unidentified Congenital Disorder
+CLCN1,Yes,Homozygous,NON_SYNONYMOUS_CODING,Not available,NON_SYNONYMOUS_CODING,Not available,M,Adult,Unidentified Congenital Disorder
+CACNA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+HNRNPH2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SCN2A,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CACNA1C,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ADPRHL2,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+TOP3A,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,VUS,SPLICE_SITE_DONOR,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+RALA,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+TSC2,No,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+DNMT1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+ATM,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,M,Pediatric,Unidentified Congenital Disorder
+SMC3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NDUFS4,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+SMARCA2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+B3GALT6,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+B3GALT6,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+CCDC22,Yes,Hemizygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NAGLU,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+DHX30,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GNE,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+COL27A1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,SPLICE_SITE_DONOR,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+KMT2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GNAS,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TP63,No,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GPIHBP1,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,M,Pediatric,Unidentified Congenital Disorder
+SGSH,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+RNASEH2B,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+FA2H,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Adult,Unidentified Congenital Disorder
+KIF1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PPP2R1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+MT-ATP6,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+MT-ATP6,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PTPN11,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+GNAO1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SOX5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+smpd1,Yes,Homozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,F,Adult,Unidentified Congenital Disorder
+NSD1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+ADNP,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GRIN1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+BRAF,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NDUFS1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+GNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GNB1,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+DEAF1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KCNH1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+COL4A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+BRAF,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+MECP2,Yes,Hemizygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+RAC1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PPP1CB,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+DHTKD1,Yes,Homozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+ROBO3,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,STOP_GAINED,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+FOXP1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+PPP2R1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+WFS1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+WFS1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+EP300,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+EDA,Yes,Hemizygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+EDA,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+EDA,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+TBCD,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TCF4,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+HNRNPK,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+SCN1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+TMEM173,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Primary Immunodeficiency Cohort
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CHST14,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+SOX17,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+PIEZO1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,VUS,F,Pediatric,Unidentified Congenital Disorder
+NFKB1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,F,Adult,Primary Immunodeficiency Cohort
+STRC,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,VUS,M,Pediatric,Unidentified Congenital Disorder
+GNAS,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+SIX1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+F5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PAFAH1B1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CHRNB2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+SERPING1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Adult,Primary Immunodeficiency Cohort
+G6PD,Yes,Hemizygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Primary Immunodeficiency Cohort
+TP53,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SMARCB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ADAMTSL2,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,F,Pediatric,Unidentified Congenital Disorder
+L1CAM,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Cerebral Palsy Cohort
+EEF1A2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+AMMECR1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+ACTB,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+GLB1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TUBA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+MC4R,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+MED12,Yes,Hemizygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+FBN1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KCNC1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Other neurological disorders
+KMT5B,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+SCN1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+GNAO1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Neurodevelopmental disorder
+GNAO1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Neurodevelopmental disorder
+AKT3,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+KCNT1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+SCN1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+NSD1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+CACNA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+COL4A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+PAFAH1B1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Epilepsy
+SCN8A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+PIGW,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,M,Pediatric,Epilepsy
+PIGW,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,M,Pediatric,Epilepsy
+KIF1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Neurodevelopmental disorder
+PACS1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+POLG,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,F,Adult,Cerebellar ataxia
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+DEPDC5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+KCNQ2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+EEF1A2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+COL6A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Neuromuscular
+TUBB4A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+ECHS1,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,M,Pediatric,Neurodevelopmental disorder
+KCNQ3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Epilepsy
+KCNQ3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Adult,Unaffected parent
+KIF1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+NOTCH3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Other neurological disorders
+KCNB1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+SCN1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+PRKCG,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Neurodevelopmental disorder
+SCN8A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+KCNQ3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+FGFR2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+TGFBR2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+GNAS,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Neurodevelopmental disorder
+SCN8A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+UBTF,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SCN3A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+SCN1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+OPA1,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Pediatric,Other neurological disorders
+GRIN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Other neurological disorders
+PROS1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Other neurological disorders
+F5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Pediatric,Other neurological disorders
+MTOR,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+KCNQ3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Epilepsy
+RAF1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+DYNC1H1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Adult,Epilepsy
+ATP6V1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Epilepsy
+ACTC1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+CACNA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Adult,Cerebellar ataxia
+FXN,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Cerebellar ataxia
+TPP1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,SPLICE REGION VARIANT,VUS,M,Adult,Other neurological disorders
+KIAA0196 (WASHC5),Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Adult,Neuromuscular
+CHD2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+ARHGEF9,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+NOTCH3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Adult,Other neurological disorders
+CYP27A1,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,SPLICE_SITE_ACCEPTOR,Pathogenic,M,Adult,Neuromuscular
+RPL10 ,Yes,Hemizygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Pediatric,Epilepsy
+COL27A1,Yes,Homozygous,NON_SYNONYMOUS_START,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Adult,Unidentified Congenital Disorder
+ATXN2,Yes,Heterozygous,Repeat Expansion,Pathogenic,Not applicable,Not applicable,F,Adult,Other neurological disorders
+DOCK6,Yes,Homozygous,SPLICE REGION VARIANT,VUS,SPLICE REGION VARIANT,VUS,F,Pediatric,Epilepsy
+ATRX,Yes,Hemizygous,SPLICE_SITE_ACCEPTOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+AP4M1,Yes,Homozygous,SPLICE_SITE_ACCEPTOR,Likely pathogenic,SPLICE_SITE_ACCEPTOR,Likely pathogenic,F,Pediatric,Unidentified Congenital Disorder
+KMT2A,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SLC13A5,Yes,Homozygous,SPLICE_SITE_ACCEPTOR,Pathogenic,SPLICE_SITE_ACCEPTOR,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+SLC13A5,Yes,Homozygous,SPLICE_SITE_ACCEPTOR,Pathogenic,SPLICE_SITE_ACCEPTOR,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+IQSEC2,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CSNK2B,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+SHANK3,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NSD1,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PAX6,No,Heterozygous,SPLICE_SITE_DONOR,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+G6PC3,Yes,Homozygous,SPLICE_SITE_DONOR,Pathogenic,SPLICE_SITE_DONOR,Pathogenic,F,Pediatric,Unidentified Congenital Disorder
+ATM,Yes,Compound Heterozygous,SPLICE_SITE_DONOR,Pathogenic,FRAME_SHIFT,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+FGFR1,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+NF1,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+CREBBP,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+OPA1,Yes,Heterozygous,SPLICE_SITE_DONOR,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+OPA1,Yes,Heterozygous,SPLICE_SITE_DONOR,Likely pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+DNAH11,Yes,Homozygous,SPLICE_SITE_DONOR,Likely pathogenic,SPLICE_SITE_DONOR,Likely pathogenic,F,Adult,Primary Immunodeficiency Cohort
+JAG1,Yes,Heterozygous,SPLICE_SITE_DONOR,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+CACNA1A,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+ARID1B,Yes,Heterozygous,START_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+DMP1,Yes,Homozygous,START_LOST,Pathogenic,START_LOST,Pathogenic,F,Adult,Unidentified Congenital Disorder
+BCL11A,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ANKRD11,Yes,Heterozygous,STOP_GAINED,Not available,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+TCF4,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+ZEB2,Yes,Heterozygous,STOP_GAINED,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+FAS,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+FAS,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Adult,Unidentified Congenital Disorder
+NSD1,Yes,Heterozygous,STOP_GAINED,Not available,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+DMD,Yes,Hemizygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+TBCK,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+KIAA2022,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ACSF3,Yes,Compound Heterozygous,STOP_GAINED,Not available,FRAME_SHIFT,Not available,F,Pediatric,Unidentified Congenital Disorder
+ASXL3,Yes,Heterozygous,STOP_GAINED,Not available,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+HNF1B,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+HNF1B,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+HNF1B,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+KDM6A,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+SCN1A,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+SCN1A,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+EYS,Yes,Compound Heterozygous,STOP_GAINED,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Adult,Unidentified Congenital Disorder
+JUP,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+TAB2,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+BBS1,Yes,Compound Heterozygous,STOP_GAINED,Pathogenic,NON_SYNONYMOUS_CODING,Pathogenic,M,Adult,Unidentified Congenital Disorder
+SCYL1,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+CRB1,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+CERKL,Yes,Compound Heterozygous,STOP_GAINED,Pathogenic,SPLICE_SITE_ACCEPTOR,Pathogenic,F,Adult,Unidentified Congenital Disorder
+SYNGAP1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+C2orf71,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,F,Adult,Unidentified Congenital Disorder
+TAB2,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+TAB2,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Adult,Unidentified Congenital Disorder
+QRICH1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ADGRV1 (aka GPR98),Yes,Compound Heterozygous,STOP_GAINED,Likely pathogenic,STOP_GAINED,Likely pathogenic,F,Adult,Unidentified Congenital Disorder
+TRIM8,Yes,Heterozygous,STOP_GAINED,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NSD1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+WAC,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+NBEA,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KMT2A,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+KIDINS220,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+KIZ,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Adult,Unidentified Congenital Disorder
+PTEN,Yes,Mosaic Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CHD8,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+MYO7A,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Pediatric,Unidentified Congenital Disorder
+FLG,Yes,Compound Heterozygous,STOP_GAINED,Likely pathogenic,FRAME_SHIFT,Likely pathogenic,M,Pediatric,Unidentified Congenital Disorder
+FBXO11,Yes,Unknown,STOP_GAINED,Likely pathogenic,NON_SYNONYMOUS_CODING,VUS,F,Pediatric,Unidentified Congenital Disorder
+CACNA1A,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+ABCA4,Yes,Compound Heterozygous,STOP_GAINED,VUS,NON_SYNONYMOUS_CODING,Pathogenic,F,Adult,Unidentified Congenital Disorder
+ZSWIM6,Yes,Heterozygous,STOP_GAINED,VUS,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+DNMT3A,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+CSNK2B,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+PCDH19,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+NBEA,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+CSNK2B,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+CSNK2B,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+HNF1A,No,Heterozygous,STOP_GAINED,Not available,Not applicable,Not applicable,F,Adult,Stroke/dilated brain arteries
+SPG7,Yes,Homozygous,STOP_GAINED,Pathogenic,STOP_GAINED,Pathogenic,M,Adult,Other neurological disorders
+FLNA,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+KANSL1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+CDKL5,Yes,Mosaic Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+PAFAH1B1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+KCNQ2,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+ANKRD11,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+SLC20A2,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,M,Adult,Parkinson's
+ECEL1,Yes,Compound Heterozygous,STOP_GAINED,Pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Pediatric,Other neurological disorders
+SCN1A,Yes,Mosaic Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Pediatric,Epilepsy
+NSD1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Pediatric,Epilepsy
+KCNQ2,Yes,Heterozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+NF1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+CSNK2B ,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Adult,Epilepsy
+KRIT1,Yes,Heterozygous,STOP_LOST,Likely pathogenic,Not applicable,Not applicable,M,Adult,Epilepsy
+EBF3,Yes,Heterozygous,SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Pediatric,Unidentified Congenital Disorder
+AR,Yes,Hemizygous,SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+AR,Yes,Hemizygous,SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+PLP1,Yes,Hemizygous,SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Pediatric,Unidentified Congenital Disorder
+COL4A5,,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+PKD1,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+EYA1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+COL11A1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+EYA1,Yes,Heterozygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,F,Adult,Congenital or cystic renal disease
+KLHL3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Other
+PKD1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A3,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Adult ,Glomerulopathy
+REN,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Tubulointerstitial disease
+SLC12A3,,Compound Heterozygous,SPLICE_SITE_DONOR,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Adult ,Tubulointerstitial disease
+CLCN5,,Hemizygous,STOP_GAINED,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Pediatric,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PKD1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+NPHS1,,Compound Heterozygous,SPLICE_SITE_ACCEPTOR,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Adult ,Glomerulopathy
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Hypertensive nephropathy
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+PKD1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+SLC12A3,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Adult ,Tubulointerstitial disease
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PKHD1,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+NPHS2,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A3,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Adult ,Nephropathy of unknown origin
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A4,,Heterozygous,NON_SYNONYMOUS_CODING,Likely Pathogenic,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PKD1,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely Pathogenic,Not applicable,Not applicable,M,Adult,Glomerulopathy
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A3,Yes,Heterozygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A4,,Compound Heterozygous,SPLICE_SITE_DONOR,Not available ,FRAME_SHIFT,Not available ,F,Adult ,Glomerulopathy
+SLC34A3,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+NPHP4,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,STOP_GAINED,Not available ,F,Adult ,Nephropathy of unknown origin
+MC4R,Yes,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+CLCN5,Yes,Hemizygous,STOP_GAINED,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+SMARCAL1,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,SPLICE_SITE_ACCEPTOR,Not available ,F,Adult ,Glomerulopathy
+COL4A3,,Heterozygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+JAG1,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+PKD1,,Heterozygous,SPLICE_SITE_ACCEPTOR,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+PKD1,Yes,Heterozygous,SPLICE_SITE_ACCEPTOR,Not available ,Not applicable,Not applicable,F,Adult,Congenital or cystic renal disease
+PAX2,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+HBB,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Other
+HNF4A,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+MYH9,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+NPHP4,,Compound Heterozygous,FRAME_SHIFT,Not available ,FRAME_SHIFT,Not available ,M,Adult ,Nephropathy of unknown origin
+HNF1A,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Diabetic nephropathy
+COL4A4,Yes,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+TRPC6,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+MYCN,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Diabetic nephropathy
+HNF1A,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,M,Adult,Diabetic nephropathy
+HNF1A,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Diabetic nephropathy
+HNF1A,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Diabetic nephropathy
+CRB2,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A4,,Heterozygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+WT1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+INF2,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+CRB2,Yes,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+TRPC6,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Adult,Glomerulopathy
+SALL1,Yes,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+INF2,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+NPHS2,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,SPLICE_SITE_DONOR,Not available ,F,Adult ,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+CLCN5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+ROBO2,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+COL4A5,Yes,Hemizygous,CODON_DELETION,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A5,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Adult,Glomerulopathy
+HBB,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Pediatric,CAKUT
+NF1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+CREBBP,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+LRIG2,,Compound Heterozygous,STOP_GAINED,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Pediatric,Congenital or cystic renal disease
+RERE,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+EYA1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+FANCB,Yes,Hemizygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Pediatric,Congenital or cystic renal disease
+DHCR7,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Pediatric,Congenital or cystic renal disease
+HNF1B,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Pediatric,Congenital or cystic renal disease
+NF1,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,M,Pediatric,Congenital or cystic renal disease
+ACTG2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Pediatric,Congenital or cystic renal disease
+PAX2,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Congenital or cystic renal disease
+UMOD,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely Pathogenic,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+SMC1A,,Hemizygous,SPLICE_SITE_ACCEPTOR,Not available ,Not applicable,Not applicable,M,Pediatric,Congenital or cystic renal disease
+COL4A4,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A4,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+NPHS2,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+CLCN5,Yes,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Tubulointerstitial disease
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+WDR19,,Compound Heterozygous,SPLICE_SITE_DONOR,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Adult ,Congenital or cystic renal disease
+TTC21B,,Compound Heterozygous,STOP_GAINED,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Pediatric,Nephropathy of unknown origin
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+SLC4A1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Tubulointerstitial disease
+PAX2,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Congenital or cystic renal disease
+COL4A5,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A5,,Heterozygous,SPLICE_SITE_ACCEPTOR,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+INF2,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+SLC26A1,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Adult ,Nephropathy of unknown origin
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Tubulointerstitial disease
+HNF1A,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+ATP6V1B1,,Compound Heterozygous,FRAME_SHIFT,Not available ,FRAME_SHIFT,Not available ,F,Adult ,Tubulointerstitial disease
+COL4A4,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A4,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PKD1,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+GLA,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Other
+HBB,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A3,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A5,,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A4,,Homozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+IQCB1,,Compound Heterozygous,STOP_GAINED,Not available ,FRAME_SHIFT,Not available ,M,Adult ,Congenital or cystic renal disease
+PAX2,,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A4,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+APOA1,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+KCNQ1,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+KANSL1,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Congenital or cystic renal disease
+COL4A3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely Pathogenic,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A4,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+EYA1,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Congenital or cystic renal disease
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+SLC7A9,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Tubulointerstitial disease
+PLCE1,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+UMOD,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A4,,Homozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+GLA,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Other
+CREBBP,,Heterozygous,FRAME_SHIFT,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A4,Yes,Heterozygous,SPLICE_SITE_DONOR,Pathogenic,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Glomerulopathy
+COL4A5,,Hemizygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PKHD1,,Compound Heterozygous,NON_SYNONYMOUS_CODING,Not available ,NON_SYNONYMOUS_CODING,Not available ,M,Adult ,Nephropathy of unknown origin
+PTPN11,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+PKHD1,,Compound Heterozygous,FRAME_SHIFT,Not available ,NON_SYNONYMOUS_CODING,Not available ,F,Adult ,Congenital or cystic renal disease
+COL4A3,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+COL4A5,,Hemizygous,SPLICE_SITE_DONOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+PAX2,Yes,Heterozygous,STOP_GAINED,Not available ,Not applicable,Not applicable,F,Adult,Nephropathy of unknown origin
+TRPC6,,Heterozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,SPLICE REGION VARIANT,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+NPHP3,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Nephropathy of unknown origin
+COL4A4,,Homozygous,NON_SYNONYMOUS_CODING,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,SPLICE_SITE_ACCEPTOR,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+COL4A5,,Hemizygous,STOP_GAINED,Not available ,Not applicable,Not applicable,M,Adult,Glomerulopathy
+L1CAM,Yes,Hemizygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FLNA,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+FGFR3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+RERE,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+MYH10,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Not available,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+ARMC8,Yes,Homozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FLVCR2,Yes,Compound Heterozygous,STOP_GAINED,Likely pathogenic,Spice region variant,Likely pathogenic,F,Fetal,Fetal Anomaly
+TSC2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+PKD2 ,Yes,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+RASA1,Yes,Heterozygous,FRAME_SHIFT,Not available,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FLNB,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+TMEM67,Yes,Homozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+ACTG2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+KMT2D ,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+FGFR3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+COL2A1 ,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+MYL2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+SCN2A,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL4A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+SOS1 ,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+RAC1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+C5ORF42,Yes,Homozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+RAPSN,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,M,Fetal,Fetal Anomaly
+TSC2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+SALL4,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+RET,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FGFR3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+NIPBL,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+CEP290,Yes,Compound Heterozygous,STOP_GAINED,Pathogenic,FRAME_SHIFT,Pathogenic,F,Fetal,Fetal Anomaly
+PTPN11,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+POMT2,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+NR2F2,Yes,Heterozygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+PIEOZ1,Yes,Homozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+CC2D2A,Yes,Compound Heterozygous,STOP_GAINED,Pathogenic,SPLICE REGION VARIANT,Pathogenic,F,Fetal,Fetal Anomaly
+COL4A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+KLHL40,Yes,Homozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FLVCR2,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,VUS,NON_SYNONYMOUS_CODING,VUS,M,Fetal,Fetal Anomaly
+FGFR2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL2A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+OCRL,Yes,Hemizygous,FRAME_SHIFT,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL1A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+ARID1A ,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+TUB1A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+SCN2A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,VUS,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+LZTR1,Yes,Compound Heterozygous,FRAME_SHIFT,Likely pathogenic,SPLICE REGION VARIANT,Likely pathogenic,M,Fetal,Fetal Anomaly
+ZFPM2,Yes,Heterozygous,STOP_GAINED,VUS,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL2A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+FGD1,Yes,Hemizygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+CDH7,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+PIK3CA,Yes,Mosaic Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+PIEZO1,Yes,Homozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+GPSM2 ,Yes,Compound Heterozygous,SPLICE REGION VARIANT,Pathogenic,SPLICE REGION VARIANT,Likely pathogenic,F,Fetal,Fetal Anomaly
+DHCR7,Yes,Compound Heterozygous,SPLICE REGION VARIANT,Pathogenic,NON_SYNONYMOUS_CODING,Likely pathogenic,F,Fetal,Fetal Anomaly
+TUBA1A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FAM111A,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+EYA1 ,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+TUBB3,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+SOX9,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+COL2A1,Yes,Heterozygous,FRAME_SHIFT,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+KMT2D,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+PTPN11,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+SLC26A ,Yes,Compound Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,STOP_GAINED,Pathogenic,M,Fetal,Fetal Anomaly
+ASPM,Yes,Homozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+FGFR2 ,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL1A2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+PLOD2,Yes,Homozygous,STOP_GAINED,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+RECQ,Yes,Compound Heterozygous,STOP_GAINED,Likely pathogenic,NON_SYNONYMOUS_CODING,VUS,F,Fetal,Fetal Anomaly
+B3GAT3,Yes,Homozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+EFTUD,Yes,Heterozygous,STOP_GAINED,Pathogenic,Not applicable,Not applicable,F,Fetal,Fetal Anomaly
+MYRF,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+FGFR2,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+CHD7,Yes,Heterozygous,SPLICE REGION VARIANT,Likely pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly
+COL2A1,Yes,Heterozygous,NON_SYNONYMOUS_CODING,Pathogenic,Not applicable,Not applicable,M,Fetal,Fetal Anomaly

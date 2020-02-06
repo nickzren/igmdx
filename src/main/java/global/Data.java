@@ -16,7 +16,7 @@ public class Data {
 
     public static final int NA = Integer.MIN_VALUE;
     public static String rootPath = "";
-    private final static String SOURCE_DATA = "DiagSeq_and_Neuro_IGMD_V1.csv";
+    private final static String SOURCE_DATA = "igmdx_v1.csv";
 
     public static final Multimap<String, String> geneMap = MultimapBuilder.treeKeys().linkedListValues().build();
 

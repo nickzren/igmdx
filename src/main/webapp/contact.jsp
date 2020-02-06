@@ -24,9 +24,8 @@
                 
                 <address>
                     <strong>IGMDx Consortium</strong><br>
-                    Email: 
                     <a href="mailto: igmdx@columbia.edu" target="_blank">
-                        <i class="fa fa-envelope-o">
+                        <i class="far fa-envelope">
                             igmdx@columbia.edu
                         </i>
                     </a>
@@ -34,9 +33,8 @@
 
                 <address>
                     <strong>Nick Ren (Web Administrator)</strong><br>
-                    Email: 
                     <a href="mailto: z.ren@columbia.edu" target="_blank">
-                        <i class="fa fa-envelope-o">
+                        <i class="far fa-envelope">
                             z.ren@columbia.edu
                         </i>
                     </a>

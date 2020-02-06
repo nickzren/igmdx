@@ -24,7 +24,7 @@
 
                 <p class="lead">
                     The IGM has performed research diagnostic whole exome or whole genome sequencing on 2,250 CUIMC patients with presentations including undiagnosed diseases of childhood and neurological diseases (with a focus on epilepsy).  All of these patient genomes have been analyzed with a standardized diagnostic pipeline in the IGM in an effort to identify single genotypes that are responsible for disease.  Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multi- disciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The IGMDx database provides an easy to use interface to access all such diagnoses in disease causing genes. Users can enter a gene of interest and quickly identify all patients with positive diagnoses in the indicated gene, including non-identifying diagnostic information about the patient and information about the relevant diagnostic mutation or mutations. Information about whether the variant was confirmed in a CLIA-approved laboratory is also indicated.  If additional information is needed about patients carrying indicated causal genotypes please contact 
-                    <a href="mailto: igmdx@columbia.edu" target="_blank"><i class="fa fa-envelope-o"> igmdx@columbia.edu</i></a>.
+                    <a href="mailto: igmdx@columbia.edu" target="_blank"><i class="far fa-envelope"> igmdx@columbia.edu</i></a>.
                 </p>
             
                 <br/>
@@ -57,6 +57,12 @@
                 <p>
                     All the individual level diagnostic evaluation is performed by IGM analysis using 
                     <a href="https://redmine.igm.cumc.columbia.edu/projects/atav/wiki" target="_blank">ATAV</a>.
+                </p>
+                
+                <br/>
+                
+                <h4><i class="fas fa-dna"></i> Genes</h4>
+                <p>We will periodically add new genes to the list.
                 </p>
             </div>
         </div>

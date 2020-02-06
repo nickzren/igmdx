@@ -20,6 +20,7 @@
 
         <script src="js/jquery-latest.min.js"></script>    
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/font-awesome.min.js"></script>
         <script src="js/jquery.tablesorter.js"></script>
         <script src="js/jquery.tablesorter.widgets.js"></script>
     </head>
@@ -54,7 +55,7 @@
                     <p class="text-muted" style="margin-left: 5px">
                         Examples - 
                         Gene: <a href="Search?query=SCN1A">SCN1A</a>, 
-                        Genes: <a href="Search?query=SCN1A,NF1,CACNA1A">SCN1A,NF1,CACNA1A</a>
+                        Genes: <a href="Search?query=COL11A1,GNB1,NGLY1,SCN1A,SCN2A">COL11A1,GNB1,NGLY1,SCN1A,SCN2A</a>
                     </p>
                 </div>
 

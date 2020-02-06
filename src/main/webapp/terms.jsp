@@ -29,13 +29,6 @@
                     The data derived from this website may not be used for any commercial purpose. 
                     The data from this website may not be replicated on any other website without written consent.
                 </p>
-
-                <br/>
-
-<!--                <h4><i class="fa fa-star"></i> Citation</h4>
-                <p>                    
-                    .......
-                </p>-->
             </div>
 
         </div>

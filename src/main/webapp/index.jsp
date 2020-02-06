@@ -5,9 +5,9 @@
 <html>
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>IGMDx Data Browser (IGMDx) | IGMDx</title>
+        <title>IGMDx</title>
 
-        <meta name="description" content="The IGMDx Data Browser">
+        <meta name="description" content="IGMDx">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="canonical" href="http://igmdx.org/">
@@ -37,7 +37,7 @@
                     </h2>
 
                     <div class="row">
-                        <div class="col-md-9">
+                        <div class="col-md-10">
                             <form class="form-search" action="Search">
                                 <div class="input-group">
                                     <input name="query" class="form-control input-lg tt-input"

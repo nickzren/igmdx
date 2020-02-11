@@ -24,9 +24,9 @@
                 
                 <address>
                     <strong>IGMDx Consortium</strong><br>
-                    <a href="mailto: igmdx@columbia.edu" target="_blank">
+                    <a href="mailto: igmdx@lists.cumc.columbia.edu" target="_blank">
                         <i class="far fa-envelope">
-                            igmdx@columbia.edu
+                            igmdx@lists.cumc.columbia.edu
                         </i>
                     </a>
                 </address>

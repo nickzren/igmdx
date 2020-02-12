@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 public class Output {
 
     // output list based on search query
-    private ArrayList<String> list;
+    private ArrayList<Gene> list;
 
     public Output(Input input, HttpServletRequest request) {
         if (Data.geneMap.isEmpty()) {
@@ -25,7 +25,7 @@ public class Output {
         }
     }
 
-    public ArrayList<String> getList() {
+    public ArrayList<Gene> getList() {
         return list;
     }
 }

@@ -7,6 +7,7 @@ import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import model.Gene;
 
 /**
  *
@@ -18,7 +19,7 @@ public class Data {
     public static String rootPath = "";
     private final static String SOURCE_DATA = "igmdx_v1.csv";
 
-    public static final Multimap<String, String> geneMap = MultimapBuilder.treeKeys().linkedListValues().build();
+    public static final Multimap<String, Gene> geneMap = MultimapBuilder.treeKeys().linkedListValues().build();
 
     public static void init() {
         initGeneMap();
@@ -38,12 +39,16 @@ public class Data {
 
             boolean isHeader = true;
             while ((line = br.readLine()) != null) {
-                if(isHeader) {
+                if (isHeader) {
                     isHeader = false;
                     continue;
                 }
                 String[] temp = line.split(",");
-                geneMap.put(temp[0].toUpperCase(), line);
+
+                Gene gene = new Gene(temp[0], temp[1], temp[2], temp[3], temp[4],
+                        temp[5], temp[6], temp[7], temp[8], temp[9]);
+
+                geneMap.put(gene.getDiagnosisGene(), gene);
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -69,7 +74,7 @@ public class Data {
 
             int individualCount = geneMap.get(gene).size();
 
-            System.out.println("<div class=\"col-md-2\"><span class=\"badge\">" + individualCount + "</span> "+ gene + "</div>");
+            System.out.println("<div class=\"col-md-2\"><span class=\"badge\">" + individualCount + "</span> " + gene + "</div>");
 
             counter++;
         }

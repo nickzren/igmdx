@@ -28,7 +28,7 @@ public class Search extends HttpServlet {
             Output output = new Output(input, request);
 
             request.setAttribute("query", input.getQuery());
-            request.setAttribute("outputList", output.getList());
+            request.setAttribute("geneList", output.getList());
             request.getRequestDispatcher("index.jsp").forward(request, response);
         } catch (Exception ex) {
             request.getRequestDispatcher("error.jsp").forward(request, response);

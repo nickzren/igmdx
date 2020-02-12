@@ -1,3 +1,4 @@
+<%@page import="model.Gene"%>
 <%@page import="java.util.ArrayList"%>
 <script type="text/javascript">
     $(function () {
@@ -12,9 +13,9 @@
 
 <%
     String query = (String) request.getAttribute("query");
-    ArrayList<String> outputList = (ArrayList<String>) request.getAttribute("outputList");
+    ArrayList<Gene> geneList = (ArrayList<Gene>) request.getAttribute("geneList");
 
-    if (outputList != null) {
+    if (geneList != null) {
 %>    
 <div class="row">
     <div class="col-md-10">
@@ -25,7 +26,7 @@
 </div>
 <br/>
 <%
-    if (outputList.isEmpty()) {
+    if (geneList.isEmpty()) {
 %>
 <div class="alert alert-warning" style="width:24%">
     No results found from search query.
@@ -33,7 +34,7 @@
 <%
 } else {
 %>
-<table id="outputList" class="tablesorter">
+<table id="geneList" class="tablesorter">
     <thead> 
         <tr> 
             <th class="text-center" style="cursor: pointer; vertical-align: middle;">
@@ -101,11 +102,11 @@
 
     <tbody>
         <%
-            for (String row : outputList) {
+            for (Gene row : geneList) {
         %>
         <tr>
             <%
-                for (String column : row.split(",")) {
+                for (String column : row.toString().split(",")) {
             %>
             <td class="text-center" style="vertical-align: middle;">
                 <%=column%>
@@ -127,7 +128,7 @@
 
 <script type="text/javascript">
     $(function () {
-    $('#outputList').tablesorter({
+    $('#geneList').tablesorter({
     theme: "bootstrap",
     headerTemplate: '{content} {icon}',
     widgets: ["uitheme"],

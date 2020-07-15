@@ -32,7 +32,7 @@
                 </address>
 
                 <address>
-                    <strong>Nick Ren (Web Administrator)</strong><br>
+                    <strong>Nick Ren</strong><br>
                     <a href="mailto: z.ren@columbia.edu" target="_blank">
                         <i class="far fa-envelope">
                             z.ren@columbia.edu

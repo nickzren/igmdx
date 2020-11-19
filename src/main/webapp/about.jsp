@@ -78,7 +78,7 @@
                     <div class="col-md-2"><span class="badge">1</span> ADAMTSL2</div>
                 </div>
                 <div class="row">
-                    <div class="col-md-2"><span class="badge">1</span> ADGRV1 (AKA GPR98)</div>
+                    <div class="col-md-2"><span class="badge">1</span> ADGRV1 (aka GPR98)</div>
                     <div class="col-md-2"><span class="badge">1</span> ADNP</div>
                     <div class="col-md-2"><span class="badge">1</span> ADPRHL2</div>
                     <div class="col-md-2"><span class="badge">1</span> AKT3</div>
@@ -112,7 +112,7 @@
                 <div class="row">
                     <div class="col-md-2"><span class="badge">1</span> BPTF</div>
                     <div class="col-md-2"><span class="badge">2</span> BRAF</div>
-                    <div class="col-md-2"><span class="badge">1</span> C2ORF71</div>
+                    <div class="col-md-2"><span class="badge">1</span> C2orf71</div>
                     <div class="col-md-2"><span class="badge">1</span> C5ORF42</div>
                     <div class="col-md-2"><span class="badge">7</span> CACNA1A</div>
                     <div class="col-md-2"><span class="badge">1</span> CACNA1C</div>
@@ -454,7 +454,7 @@
                     <div class="col-md-2"><span class="badge">1</span> SMC3</div>
                 </div>
                 <div class="row">
-                    <div class="col-md-2"><span class="badge">1</span> SMPD1</div>
+                    <div class="col-md-2"><span class="badge">1</span> smpd1</div>
                     <div class="col-md-2"><span class="badge">3</span> SON</div>
                     <div class="col-md-2"><span class="badge">1</span> SOS1 </div>
                     <div class="col-md-2"><span class="badge">1</span> SOX17</div>

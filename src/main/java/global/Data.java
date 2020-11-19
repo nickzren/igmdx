@@ -7,6 +7,8 @@ import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Collection;
 import model.Gene;
 
 /**
@@ -48,7 +50,7 @@ public class Data {
                 Gene gene = new Gene(temp[0], temp[1], temp[2], temp[3], temp[4],
                         temp[5], temp[6], temp[7], temp[8], temp[9]);
 
-                geneMap.put(gene.getDiagnosisGene(), gene);
+                geneMap.put(gene.getDiagnosisGene().toUpperCase(), gene);
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -73,8 +75,10 @@ public class Data {
             }
 
             int individualCount = geneMap.get(gene).size();
+            ArrayList<Gene> list = new ArrayList<>(geneMap.get(gene));
+            String geneName = list.get(0).getDiagnosisGene();
 
-            System.out.println("<div class=\"col-md-2\"><span class=\"badge\">" + individualCount + "</span> " + gene + "</div>");
+            System.out.println("<div class=\"col-md-2\"><span class=\"badge\">" + individualCount + "</span> " + geneName + "</div>");
 
             counter++;
         }

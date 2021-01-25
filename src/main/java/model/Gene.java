@@ -10,6 +10,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "gene")
 public class Gene {
 
+    private String id;
     private String diagnosisGene;
     private String geneticDiagnosisCLIAConfirmed;
     private String zygosity;
@@ -24,7 +25,9 @@ public class Gene {
     public Gene() {   
     }
     
-    public Gene(String diagnosisGene,
+    public Gene(
+            String id,
+            String diagnosisGene,
             String geneticDiagnosisCLIAConfirmed,
             String zygosity,
             String typeOfMutationOfVariantA,
@@ -34,6 +37,7 @@ public class Gene {
             String sex,
             String ageGroup,
             String phenotype) {
+        this.id = id;
         this.diagnosisGene = diagnosisGene;
         this.geneticDiagnosisCLIAConfirmed = geneticDiagnosisCLIAConfirmed;
         this.zygosity = zygosity;
@@ -44,6 +48,10 @@ public class Gene {
         this.sex = sex;
         this.ageGroup = ageGroup;
         this.phenotype = phenotype;
+    }
+    
+    public String getID() {
+        return id;
     }
 
     public String getDiagnosisGene() {
@@ -129,6 +137,7 @@ public class Gene {
     @Override
     public String toString() {
         StringJoiner sj = new StringJoiner(",");
+        sj.add(id);
         sj.add(diagnosisGene);
         sj.add(geneticDiagnosisCLIAConfirmed);
         sj.add(zygosity);

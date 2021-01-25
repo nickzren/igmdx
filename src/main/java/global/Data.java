@@ -7,8 +7,9 @@ import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.io.Reader;
 import java.util.ArrayList;
-import java.util.Collection;
+import java.util.zip.GZIPInputStream;
 import model.Gene;
 
 /**
@@ -19,7 +20,7 @@ public class Data {
 
     public static final int NA = Integer.MIN_VALUE;
     public static String rootPath = "";
-    private final static String SOURCE_DATA = "igmdx_v1.csv";
+    private final static String SOURCE_DATA = "igmdx_v2.csv.gz";
 
     public static final Multimap<String, Gene> geneMap = MultimapBuilder.treeKeys().linkedListValues().build();
 
@@ -33,10 +34,10 @@ public class Data {
         }
 
         try {
-            File file = new File(Data.rootPath + File.separator + SOURCE_DATA);
-            FileInputStream fstream = new FileInputStream(file);
-            DataInputStream in = new DataInputStream(fstream);
-            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+            File f = new File(Data.rootPath + File.separator + SOURCE_DATA);
+            GZIPInputStream in = new GZIPInputStream(new FileInputStream(f));
+            Reader decoder = new InputStreamReader(in);
+            BufferedReader br = new BufferedReader(decoder);
             String line;
 
             boolean isHeader = true;
@@ -48,11 +49,16 @@ public class Data {
                 String[] temp = line.split(",");
 
                 Gene gene = new Gene(temp[0], temp[1], temp[2], temp[3], temp[4],
-                        temp[5], temp[6], temp[7], temp[8], temp[9]);
+                        temp[5], temp[6], temp[7], temp[8], temp[9], temp[10]);
 
                 geneMap.put(gene.getDiagnosisGene().toUpperCase(), gene);
             }
+            
+            br.close();
+            decoder.close();
+            in.close();
         } catch (Exception e) {
+            
             e.printStackTrace();
         }
     }

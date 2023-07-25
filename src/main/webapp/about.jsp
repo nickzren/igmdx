@@ -23,8 +23,7 @@
                 <h3 class="page-header">About</h3>
 
                 <p class="lead">
-                    The IGM has performed research diagnostic whole exome or whole genome sequencing on 5,261 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy).  All of these patient genomes have been analyzed with a standardized diagnostic pipeline in the IGM in an effort to identify single genotypes that are responsible for disease.  Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The IGMDx database provides an easy to use interface to access all such diagnoses in disease causing genes. Users can enter a gene of interest and quickly identify all patients with positive diagnoses in the indicated gene, including non-identifying diagnostic information about the patient and information about the relevant diagnostic mutation or mutations. Information about whether the variant was confirmed in a CLIA-approved laboratory is also indicated.  If additional information is needed about patients carrying indicated causal genotypes please contact 
-                    <a href="mailto: igmdx@lists.cumc.columbia.edu" target="_blank"><i class="far fa-envelope"> igmdx@lists.cumc.columbia.edu</i></a>.
+                    The IGM has performed research diagnostic whole exome or whole genome sequencing on 5,261 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy).  All of these patient genomes have been analyzed with a standardized diagnostic pipeline in the IGM in an effort to identify single genotypes that are responsible for disease.  Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The IGMDx database provides an easy to use interface to access all such diagnoses in disease causing genes. Users can enter a gene of interest and quickly identify all patients with positive diagnoses in the indicated gene, including non-identifying diagnostic information about the patient and information about the relevant diagnostic mutation or mutations. Information about whether the variant was confirmed in a CLIA-approved laboratory is also indicated. 
                 </p>
 
                 <br/>
@@ -56,7 +55,7 @@
 
                 <p>
                     All the individual level diagnostic evaluation is performed by IGM analysis using 
-                    <a href="https://redmine.igm.cumc.columbia.edu/projects/atav/wiki" target="_blank">ATAV</a>.
+                    <a href="https://github.com/nickzren/atav" target="_blank">ATAV</a>.
                 </p>
 
                 <br/>
